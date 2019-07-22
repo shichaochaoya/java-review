@@ -1,7 +1,5 @@
 package ThreadTest.produce_consumer;
 
-import java.awt.event.PaintEvent;
-
 public class Test1 {
     public static void main(String[] args) {
         Box box = new Box();

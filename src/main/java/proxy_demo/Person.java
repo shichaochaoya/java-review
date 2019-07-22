@@ -1,8 +1,5 @@
 package proxy_demo;
 
-import java.sql.DatabaseMetaData;
-import java.sql.Date;
-
 public class Person {
     private int pid;
     protected String name;

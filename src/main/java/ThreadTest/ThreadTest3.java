@@ -1,7 +1,5 @@
 package ThreadTest;
 
-import com.sun.xml.internal.bind.v2.model.annotation.RuntimeAnnotationReader;
-
 public class ThreadTest3 {
     private int j;
 

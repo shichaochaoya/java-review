@@ -1,7 +1,5 @@
 package ThreadTest.produce_consumer;
 
-import java.util.concurrent.ThreadPoolExecutor;
-
 public class Consumer extends Thread {
     private Box box;
 

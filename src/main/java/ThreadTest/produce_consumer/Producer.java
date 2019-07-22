@@ -1,9 +1,5 @@
 package ThreadTest.produce_consumer;
 
-import sun.java2d.pipe.SpanIterator;
-
-import java.util.concurrent.ThreadPoolExecutor;
-
 public class Producer implements Runnable {
     private Box box;
 
